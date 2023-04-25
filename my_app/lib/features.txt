@@ -1,0 +1,4 @@
+init fav=0;
+fav==1:we cannot delete the NotesApp;
+
+password:adding deleting
